@@ -1,0 +1,28 @@
+
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    width: 55%;
+    margin: auto;
+}
+
+#top-heading {
+    margin: 1.5em, auto;
+    text-align: center;
+    color: red;
+}
+
+#create_button {
+    margin: auto;
+    float: right;
+    font-size: 1.5em;
+    height: 1.75em;
+    /* TODO (put infinite loop of todo apps and TODOs here) */
+}
+
+#taskname {
+    margin: auto;
+    height: 2em;
+}
